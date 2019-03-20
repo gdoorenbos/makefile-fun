@@ -3,6 +3,7 @@ lib_SRCS := d.c
 , := ,
 
 $(info Are we having fun yet? :p)
+$(info garrett was here)
 
 main: lib
 
